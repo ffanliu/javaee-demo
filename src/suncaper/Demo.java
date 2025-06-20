@@ -56,6 +56,7 @@ public class Demo {
             lastpoke.add(pokes.get(i));
         }
 //change test
+        //闹麻了
         System.out.println(onepoke);
         System.out.println(twopoke);
         System.out.println(threepoke);
