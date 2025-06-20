@@ -55,7 +55,7 @@ public class Demo {
         for (int i : last) {
             lastpoke.add(pokes.get(i));
         }
-
+//change test
         System.out.println(onepoke);
         System.out.println(twopoke);
         System.out.println(threepoke);
